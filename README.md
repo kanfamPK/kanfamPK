@@ -32,7 +32,9 @@ Hi, I'm Pham Khan, a Front-end Developer 🚀 from VietNam, currently, I'm a Fro
 - 🌱 I’m currently learning GraphQL and Python; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: 
+      <br />
       Discord : Kanfam(#3123)
+      <br />
       Facebook : https://www.facebook.com/kanguey.fam/
 
 **Languages and Tools:**  
@@ -48,7 +50,7 @@ Hi, I'm Pham Khan, a Front-end Developer 🚀 from VietNam, currently, I'm a Fro
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kanfamPK&show_icons=true&theme=gotham" alt="kanfamPK" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=kanfamPK&show_icons=true&theme=gotham" alt="kanfamPK" />
 
 
 
