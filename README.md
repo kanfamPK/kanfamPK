@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img align="left" alt="kanfamPK's Linkedn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=kanfamPK.kanfamPK)
 
 <br />
 
