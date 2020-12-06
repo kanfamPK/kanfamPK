@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Pham Khan], a Front-end Developer 🚀 from VietNam, currently, I'm a Front-end Developer at FPT Software 🙍🏽‍♂️ [@CreativeCommons], Project Collaborator 👨🏽‍💼[@BITSoC] at Bootcareer. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Pham Khan, a Front-end Developer 🚀 from VietNam, currently, I'm a Front-end Developer at FPT Software 🙍🏽‍♂️, Project Collaborator 👨🏽‍💼 at Bootcareer. Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />-->
   
 **Talking about Personal Stuffs:**
 
