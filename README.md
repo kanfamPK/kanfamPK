@@ -50,7 +50,8 @@ Hi, I'm Pham Khan, a Front-end Developer 🚀 from VietNam, currently, I'm a Fro
 
 📈 My GitHub Stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=kanfamPK&show_icons=true&theme=gruvbox&count_private=true" alt="kanfamPK" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=kanfamPK&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" />
+" alt="kanfamPK" />
 
 
 
