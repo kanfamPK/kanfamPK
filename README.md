@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Pham Khan, a Front-end Developer 🚀 from VietNam, currently, I'm a Front-end Developer at FPT Software 🙍🏽‍♂️, and developing some personal project 👨🏽‍💼 Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Pham Khan, a Front-end Developer 🚀 from VietNam, currently, I'm a Front-end Developer at Saigon Technology 🙍🏽‍♂️, and developing some personal project 👨🏽‍💼 Beside's programming, I enjoy eating food and traveling.
 
  <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />-->
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and Python; 
+- 🌱 I’m currently learning Solidity, Web3 and Python; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: 
       <br />
