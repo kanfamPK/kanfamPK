@@ -50,7 +50,7 @@ Hi, I'm Pham Khan, a Web Developer 🚀 from VietNam, currently, I'm a Front-end
 
 📈 My GitHub Stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=kanfamPK&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true&disable_animations=true" alt="kanfamPK"/>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=kanfamPK&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="kanfamPK"/>
 
 <p>
 <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanfamPK&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="kanfamPK" />
