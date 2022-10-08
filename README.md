@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Pham Khan, a Front-end Developer 🚀 from VietNam, currently, I'm a Front-end Developer at Saigon Technology 🙍🏽‍♂️, and developing some personal project 👨🏽‍💼 Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Pham Khan, a Web Developer 🚀 from VietNam, currently, I'm a Front-end Developer at Saigon Technology 🙍🏽‍♂️, and developing some personal project 👨🏽‍💼 Beside's programming, I enjoy eating food and traveling.
 
  <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />-->
   
@@ -51,6 +51,10 @@ Hi, I'm Pham Khan, a Front-end Developer 🚀 from VietNam, currently, I'm a Fro
 📈 My GitHub Stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=kanfamPK&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="kanfamPK"/>
+
+<p>
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hellokvn&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="hellokvn" />
+</p>
 
 
 
