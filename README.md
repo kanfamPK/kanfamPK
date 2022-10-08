@@ -37,8 +37,9 @@ Hi, I'm Pham Khan, a Web Developer 🚀 from VietNam, currently, I'm a Front-end
       <br />
       Facebook : https://www.facebook.com/kanguey.fam/
 
-**Languages, Frameworks and Tools:**  
+**Languages and Tools:**  
 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,solidity,html,css,angular,react,graphql,nodejs,nestjs,mongodb,postgres,mysql,git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ts,js,solidity,html,css,angular,react,graphql,nodejs,nestjs,mongodb,postgres,mysql,git)](https://skillicons.dev)
 
 
