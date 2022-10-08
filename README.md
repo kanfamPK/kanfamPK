@@ -39,7 +39,7 @@ Hi, I'm Pham Khan, a Web Developer 🚀 from VietNam, currently, I'm a Front-end
 
 **Languages and Tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,solidity,html,css,angular,react,graphql,nodejs,nestjs,mongodb,postgres,mysql,git)]
+[![My Skills](https://skillicons.dev/icons?i=ts,js,solidity,html,css,angular,react,graphql,nodejs,nestjs,mongodb,postgres,mysql,git)](https://skillicons.dev)
 
 
 📈 My GitHub Stats
