@@ -29,7 +29,7 @@ Hi, I'm Pham Khan, a Web Developer 🚀 from VietNam, currently, I'm a Fullstack
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Solidity, Web3 and Python; 
+- 🌱 I’m currently researching Python, Solidity, and Web3; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: 
       <br />
@@ -39,7 +39,7 @@ Hi, I'm Pham Khan, a Web Developer 🚀 from VietNam, currently, I'm a Fullstack
 
 **Languages, Frameworks and Tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,solidity,html,css,angular,react,graphql,nodejs,nestjs,mongodb,postgres,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,html,css,angular,react,graphql,nodejs,nestjs,mongodb,postgres,mysql,git)](https://skillicons.dev)
 
 
 📈 My GitHub Stats
